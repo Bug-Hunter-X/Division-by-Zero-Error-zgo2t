@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in C: division by zero. The `bug.c` file contains the erroneous code, which attempts to divide an integer by zero. This results in undefined behavior, often causing a program crash or unexpected results. The `bugSolution.c` file provides a corrected version that handles potential division by zero using a conditional statement.
